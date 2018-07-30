@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpaceResection>
+    <QComboBox>
+        <methodBox Text="欧拉角" Index="0"/>
+    </QComboBox>
+    <MyLineEdit>
+        <x0LineEdit Value="0"/>
+        <y0LineEdit Value="0"/>
+        <fLineEdit Value="153.24"/>
+        <sLineEdit Value="5000"/>
+        <pLineEdit Value="0.000001"/>
+    </MyLineEdit>
+    <QTableWidget>
+        <CPTable HasData="Yes">
+            <Data Position="(0,0)" Value="-86.15"/>
+            <Data Position="(0,1)" Value="-68.99"/>
+            <Data Position="(0,2)" Value="36589.41"/>
+            <Data Position="(0,3)" Value="25273.32"/>
+            <Data Position="(0,4)" Value="2195.17"/>
+            <Data Position="(1,0)" Value="-53.40"/>
+            <Data Position="(1,1)" Value="82.21"/>
+            <Data Position="(1,2)" Value="37631.08"/>
+            <Data Position="(1,3)" Value="31324.51"/>
+            <Data Position="(1,4)" Value="728.69"/>
+            <Data Position="(2,0)" Value="-14.78"/>
+            <Data Position="(2,1)" Value="-76.63"/>
+            <Data Position="(2,2)" Value="39100.97"/>
+            <Data Position="(2,3)" Value="24934.98"/>
+            <Data Position="(2,4)" Value="2386.50"/>
+            <Data Position="(3,0)" Value="10.46"/>
+            <Data Position="(3,1)" Value="64.43"/>
+            <Data Position="(3,2)" Value="40426.54"/>
+            <Data Position="(3,3)" Value="30319.81"/>
+            <Data Position="(3,4)" Value="757.31"/>
+        </CPTable>
+        <matrixTable HasData="Yes">
+            <Data Position="(0,0)" Value="0.997751"/>
+            <Data Position="(0,1)" Value="0.0669009"/>
+            <Data Position="(0,2)" Value="0.00425018"/>
+            <Data Position="(1,0)" Value="-0.0668937"/>
+            <Data Position="(1,1)" Value="0.997758"/>
+            <Data Position="(1,2)" Value="-0.00181922"/>
+            <Data Position="(2,0)" Value="-0.00436236"/>
+            <Data Position="(2,1)" Value="0.00153081"/>
+            <Data Position="(2,2)" Value="0.999989"/>
+        </matrixTable>
+        <exteriorTable HasData="Yes">
+            <Data Position="(0,0)" Value="Xs = 39795.5 ± 1.10669 m"/>
+            <Data Position="(1,0)" Value="Ys = 27476.5 ± 1.24903 m"/>
+            <Data Position="(2,0)" Value="Zs = 7572.69 ± 0.487623 m"/>
+            <Data Position="(3,0)" Value=" φ = -0.00398732 ± 0.000178478 rad"/>
+            <Data Position="(4,0)" Value=" ω = 0.00211418 ± 0.000161337 rad"/>
+            <Data Position="(5,0)" Value=" κ = -0.0675779 ± 7.19597e-05 rad"/>
+        </exteriorTable>
+    </QTableWidget>
+    <FileInfo CreatedDate="2015.06.12" CreatedTime="22:18:37.932"/>
+</SpaceResection>

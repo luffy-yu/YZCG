@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpaceIntersection>
+    <QComboBox>
+        <methodBox Text="平差法" Index="0"/>
+    </QComboBox>
+    <MyLineEdit>
+        <x0LineEdit Value="-0.0183"/>
+        <y0LineEdit Value="-0.0215"/>
+        <fLineEdit Value="28.4354"/>
+        <LXsLineEdit Value="1315.337506"/>
+        <LYsLineEdit Value="-105.457028"/>
+        <LZsLineEdit Value="481.222232"/>
+        <LphiLineEdit Value="0.104458"/>
+        <LomegaLineEdit Value="0.085333"/>
+        <LkappaLineEdit Value="0.006759"/>
+        <RXsLineEdit Value="3782.351270"/>
+        <RYsLineEdit Value="-114.892386"/>
+        <RZsLineEdit Value="681.859087"/>
+        <RphiLineEdit Value="-0.168517"/>
+        <RomegaLineEdit Value="0.084508"/>
+        <RkappaLineEdit Value="0.003064"/>
+    </MyLineEdit>
+    <QTableWidget>
+        <SPTable HasData="Yes">
+            <Data Position="(0,0)" Value="4203"/>
+            <Data Position="(0,1)" Value="-6.661093"/>
+            <Data Position="(0,2)" Value="5.438708"/>
+            <Data Position="(0,3)" Value="-10.099482"/>
+            <Data Position="(0,4)" Value="4.534899"/>
+            <Data Position="(1,0)" Value="4204"/>
+            <Data Position="(1,1)" Value="-6.723808"/>
+            <Data Position="(1,2)" Value="3.116116"/>
+            <Data Position="(1,3)" Value="-10.169797"/>
+            <Data Position="(1,4)" Value="2.489021"/>
+        </SPTable>
+        <resultTable HasData="Yes">
+            <Data Position="(0,0)" Value="4203"/>
+            <Data Position="(0,1)" Value="603.034134432376"/>
+            <Data Position="(0,2)" Value="1385.23155250566"/>
+            <Data Position="(0,3)" Value="-4934.66850107125"/>
+            <Data Position="(1,0)" Value="4204"/>
+            <Data Position="(1,1)" Value="603.272060703376"/>
+            <Data Position="(1,2)" Value="936.118107405595"/>
+            <Data Position="(1,3)" Value="-4933.49737035188"/>
+        </resultTable>
+    </QTableWidget>
+    <FileInfo CreatedDate="2015.06.12" CreatedTime="09:07:44.632"/>
+</SpaceIntersection>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AbsoluteOrientation>
+    <MyLineEdit>
+        <pLineEdit Value="0.0001"/>
+    </MyLineEdit>
+    <QTableWidget>
+        <MDTable HasData="Yes">
+            <Data Position="(0,0)" Value="1301"/>
+            <Data Position="(0,1)" Value="-4.792615"/>
+            <Data Position="(0,2)" Value="7.044798"/>
+            <Data Position="(0,3)" Value="-40.779069"/>
+            <Data Position="(1,0)" Value="1302"/>
+            <Data Position="(1,1)" Value="-4.616301"/>
+            <Data Position="(1,2)" Value="2.154590"/>
+            <Data Position="(1,3)" Value="-40.262173"/>
+            <Data Position="(2,0)" Value="1402"/>
+            <Data Position="(2,1)" Value="1.031134"/>
+            <Data Position="(2,2)" Value="2.282296"/>
+            <Data Position="(2,3)" Value="-41.572772"/>
+            <Data Position="(3,0)" Value="2301"/>
+            <Data Position="(3,1)" Value="-3.532620"/>
+            <Data Position="(3,2)" Value="7.715166"/>
+            <Data Position="(3,3)" Value="-34.652412"/>
+            <Data Position="(4,0)" Value="2302"/>
+            <Data Position="(4,1)" Value="-3.446594"/>
+            <Data Position="(4,2)" Value="6.007702"/>
+            <Data Position="(4,3)" Value="-34.501191"/>
+            <Data Position="(5,0)" Value="2303"/>
+            <Data Position="(5,1)" Value="-3.388974"/>
+            <Data Position="(5,2)" Value="4.294888"/>
+            <Data Position="(5,3)" Value="-34.313875"/>
+            <Data Position="(6,0)" Value="2304"/>
+            <Data Position="(6,1)" Value="-3.299626"/>
+            <Data Position="(6,2)" Value="2.213076"/>
+            <Data Position="(6,3)" Value="-34.103384"/>
+        </MDTable>
+        <GDTable HasData="Yes">
+            <Data Position="(0,0)" Value="1301"/>
+            <Data Position="(0,1)" Value="1668.2790"/>
+            <Data Position="(0,2)" Value="1867.3426"/>
+            <Data Position="(0,3)" Value="-7031.3868"/>
+            <Data Position="(1,0)" Value="1302"/>
+            <Data Position="(1,1)" Value="1663.3590"/>
+            <Data Position="(1,2)" Value="998.0319"/>
+            <Data Position="(1,3)" Value="-7030.2778"/>
+            <Data Position="(2,0)" Value="1402"/>
+            <Data Position="(2,1)" Value="2687.5070"/>
+            <Data Position="(2,2)" Value="1002.9633"/>
+            <Data Position="(2,3)" Value="-7021.7236"/>
+            <Data Position="(3,0)" Value="2301"/>
+            <Data Position="(3,1)" Value="1634.1603"/>
+            <Data Position="(3,2)" Value="1863.3205"/>
+            <Data Position="(3,3)" Value="-5915.0946"/>
+            <Data Position="(4,0)" Value="2302"/>
+            <Data Position="(4,1)" Value="1637.9036"/>
+            <Data Position="(4,2)" Value="1560.4598"/>
+            <Data Position="(4,3)" Value="-5918.9176"/>
+            <Data Position="(5,0)" Value="2303"/>
+            <Data Position="(5,1)" Value="1635.2330"/>
+            <Data Position="(5,2)" Value="1256.2062"/>
+            <Data Position="(5,3)" Value="-5917.8062"/>
+            <Data Position="(6,0)" Value="2304"/>
+            <Data Position="(6,1)" Value="1635.9904"/>
+            <Data Position="(6,2)" Value="886.6277"/>
+            <Data Position="(6,3)" Value="-5918.4180"/>
+        </GDTable>
+        <absoluteTable HasData="Yes">
+            <Data Position="(0,0)" Value="3260.86"/>
+            <Data Position="(0,1)" Value="1930.83"/>
+            <Data Position="(0,2)" Value="-5634.6"/>
+            <Data Position="(0,3)" Value="1.00215"/>
+            <Data Position="(0,4)" Value="0.235991"/>
+            <Data Position="(0,5)" Value="0.103639"/>
+            <Data Position="(0,6)" Value="-0.0415729"/>
+            <Data Position="(1,0)" Value="± 5.41666"/>
+            <Data Position="(1,1)" Value="± 4.72474"/>
+            <Data Position="(1,2)" Value="± 4.4641"/>
+            <Data Position="(1,3)" Value="± 0.000636192"/>
+            <Data Position="(1,4)" Value="± 0.00076066"/>
+            <Data Position="(1,5)" Value="± 0.000713368"/>
+            <Data Position="(1,6)" Value="± 0.000985031"/>
+        </absoluteTable>
+        <resultTable HasData="Yes">
+            <Data Position="(0,0)" Value="1301"/>
+            <Data Position="(0,1)" Value="1667.57106531145"/>
+            <Data Position="(0,2)" Value="1868.40401057949"/>
+            <Data Position="(0,3)" Value="-7029.12110558836"/>
+            <Data Position="(0,4)" Value="-0.707934688548209"/>
+            <Data Position="(0,5)" Value="1.06141057949139"/>
+            <Data Position="(0,6)" Value="2.26569441164156"/>
+            <Data Position="(1,0)" Value="1302"/>
+            <Data Position="(1,1)" Value="1662.58276379881"/>
+            <Data Position="(1,2)" Value="997.227223113006"/>
+            <Data Position="(1,3)" Value="-7028.88346715711"/>
+            <Data Position="(1,4)" Value="-0.77623620118507"/>
+            <Data Position="(1,5)" Value="-0.804676886994343"/>
+            <Data Position="(1,6)" Value="1.39433284288953"/>
+            <Data Position="(2,0)" Value="1402"/>
+            <Data Position="(2,1)" Value="2689.23837153526"/>
+            <Data Position="(2,2)" Value="1002.36941967619"/>
+            <Data Position="(2,3)" Value="-7021.39481719901"/>
+            <Data Position="(2,4)" Value="1.73137153526362"/>
+            <Data Position="(2,5)" Value="-0.593880323812186"/>
+            <Data Position="(2,6)" Value="0.328782800991576"/>
+            <Data Position="(3,0)" Value="2301"/>
+            <Data Position="(3,1)" Value="1634.17983247424"/>
+            <Data Position="(3,2)" Value="1864.91352673081"/>
+            <Data Position="(3,3)" Value="-5915.86249367635"/>
+            <Data Position="(3,4)" Value="0.0195324742433787"/>
+            <Data Position="(3,5)" Value="1.59302673080833"/>
+            <Data Position="(3,6)" Value="-0.76789367634774"/>
+            <Data Position="(4,0)" Value="2302"/>
+            <Data Position="(4,1)" Value="1637.8548185901"/>
+            <Data Position="(4,2)" Value="1561.09047818071"/>
+            <Data Position="(4,3)" Value="-5919.79535901602"/>
+            <Data Position="(4,4)" Value="-0.0487814099028296"/>
+            <Data Position="(4,5)" Value="0.630678180709083"/>
+            <Data Position="(4,6)" Value="-0.877759016016171"/>
+            <Data Position="(5,0)" Value="2303"/>
+            <Data Position="(5,1)" Value="1635.13757276057"/>
+            <Data Position="(5,2)" Value="1255.87288141653"/>
+            <Data Position="(5,3)" Value="-5918.80632602521"/>
+            <Data Position="(5,4)" Value="-0.0954272394318498"/>
+            <Data Position="(5,5)" Value="-0.333318583472646"/>
+            <Data Position="(5,6)" Value="-1.00012602520746"/>
+            <Data Position="(6,0)" Value="2304"/>
+            <Data Position="(6,1)" Value="1635.86770272938"/>
+            <Data Position="(6,2)" Value="885.074402212965"/>
+            <Data Position="(6,3)" Value="-5919.76106600326"/>
+            <Data Position="(6,4)" Value="-0.122697270615548"/>
+            <Data Position="(6,5)" Value="-1.55329778703504"/>
+            <Data Position="(6,6)" Value="-1.34306600326454"/>
+        </resultTable>
+    </QTableWidget>
+    <FileInfo CreatedDate="2015.06.12" CreatedTime="16:49:47.306"/>
+</AbsoluteOrientation>
